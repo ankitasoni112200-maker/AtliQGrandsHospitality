@@ -1,6 +1,6 @@
-## 🏨 Hotel Insights Dashboard (AtliQ Grands)
+# 🏨 Hotel Insights Dashboard (AtliQ Grands)
 
-# 📊 Project Overview
+## 📊 Project Overview
 
 - This project presents a Power BI dashboard built to analyze hotel performance data for AtliQ Grands.
 
@@ -46,7 +46,7 @@
 - Understand customer ratings' impact on revenue
 - Provide business recommendations
 
-# 📌 Key Metrics (KPIs)
+## 📌 Key Metrics (KPIs)
 
 - 💰 Revenue: ₹1.69 Billion
 
@@ -60,7 +60,7 @@
 
 - 🛏️ Total Bookings: 133K
 
-# 📈 Insights & Findings
+## 📈 Insights & Findings
 
 - Mumbai generates the highest revenue (39.1%)
 
@@ -76,19 +76,19 @@
 
 - Other booking platforms contribute ~40% bookings
 
-# 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 - Power BI
 - DAX (Data Analysis Expressions)
 - Data Modeling
 - Excel / CSV Dataset
 
-# 📂 Dataset
+## 📂 Dataset
 
 -- Includes:
 - Fact Tables (Bookings, Revenue)
 - Dimension Tables (Hotels, Rooms, Cities)
 
-# 🚀 How to Use
+## 🚀 How to Use
 1. Download the .pbix file from this repository
 2. Open in Power BI Desktop
 3. Interact with filters:
@@ -107,7 +107,7 @@
 
 ✔ Advanced DAX measures
 
-# 👩‍💻 Author
+## 👩‍💻 Author
 
 Ankita Soni
 
