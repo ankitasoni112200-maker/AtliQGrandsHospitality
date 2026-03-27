@@ -84,7 +84,7 @@
 
 ## 📂 Dataset
 
--- Includes:
+- Includes:
 - Fact Tables (Bookings, Revenue)
 - Dimension Tables (Hotels, Rooms, Cities)
 
