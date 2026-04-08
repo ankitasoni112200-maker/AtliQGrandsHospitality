@@ -14,29 +14,9 @@
 
 <img width="1236" height="648" alt="Recommendation" src="https://github.com/user-attachments/assets/1cfcb4b3-1195-437b-aa42-3554a2b7387a" />
 
-- 📌 Implement dynamic pricing during peak demand (weekends)
-- 📌 Improve offline & direct bookings using targeted campaigns
-- 📌 Focus on customer reviews & ratings improvement
-- 📌 Reduce dependency on third-party platforms by offering:
-  - Discounts
-  - Loyalty benefits
-  - Exclusive deals
-
 ## 📝 Report
 
 <img width="1241" height="726" alt="Report" src="https://github.com/user-attachments/assets/e57714ae-08cb-4f39-a48e-39113d5155be" />
-
-- Total Revenue: ₹1.69B
-- Avg Rating: 3.84
-- Highest Rated Hotel: AtliQ Blu (3.96)
-- Lowest Rated Hotel: AtliQ Seasons (2.29)
-- Highest Occupancy: Delhi (60.55%)
-- ADR is higher in direct offline bookings
-- Room pricing:
-- Standard: 8.05K
-- Elite: 11.32K
-- Premium: 15.12K
-- Presidential: 23.44K
 
 # 🎯 Key Objectives
 
@@ -89,13 +69,13 @@
 - Dimension Tables (Hotels, Rooms, Cities)
 
 ## 🚀 How to Use
-1. Download the .pbix file from this repository
-2. Open in Power BI Desktop
-3. Interact with filters:
-   - City
-   - Room Category
-   - Date Range
-4. Explore insights via visuals
+1. Download the dataset (CSV files)
+2. Import data into MySQL for cleaning
+3. Load cleaned data into Power BI
+4. Create relationships between tables
+5. Build DAX measures
+6. Design dashboard visuals
+7. Explore insights via visuals
 
 # 🌟 Project Highlights
 
