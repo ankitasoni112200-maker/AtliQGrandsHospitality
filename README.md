@@ -8,15 +8,16 @@
 
 ## 📊 Dashboard Preview
 
-<img width="1236" height="648" alt="AtliQGrandsDashboard" src="https://github.com/user-attachments/assets/04b6320d-7a09-4832-a9a8-73f10ab5b8b4" />
-
-## 🧠 Recommendation
-
-<img width="1236" height="648" alt="Recommendation" src="https://github.com/user-attachments/assets/1cfcb4b3-1195-437b-aa42-3554a2b7387a" />
+<img width="1224" height="756" alt="Screenshot 2026-04-20 214505" src="https://github.com/user-attachments/assets/30d75e3f-4f1d-4bb0-ae08-0fa1c3534e04" />
 
 ## 📝 Report
 
-<img width="1241" height="726" alt="Report" src="https://github.com/user-attachments/assets/e57714ae-08cb-4f39-a48e-39113d5155be" />
+<img width="1193" height="723" alt="Screenshot 2026-04-21 173824" src="https://github.com/user-attachments/assets/5ba32076-329a-4e3a-b8ff-a5117006719a" />
+
+## 🧠 Recommendation
+
+<img width="1188" height="621" alt="Screenshot 2026-04-21 173833" src="https://github.com/user-attachments/assets/fbedc2ee-9629-4a01-9a9a-ff4e8ff993ab" />
+
 
 # 🎯 Key Objectives
 
