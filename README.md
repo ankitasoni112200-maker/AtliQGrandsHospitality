@@ -8,15 +8,17 @@
 
 ## 📊 Dashboard Preview
 
-<img width="1224" height="756" alt="Screenshot 2026-04-20 214505" src="https://github.com/user-attachments/assets/30d75e3f-4f1d-4bb0-ae08-0fa1c3534e04" />
+<img width="602" height="372" alt="Screenshot 2026-06-03 180736" src="https://github.com/user-attachments/assets/ff0c7995-b6a9-4f65-8fdc-c85768e61868" />
+
 
 ## 📝 Report
 
-<img width="1193" height="723" alt="Screenshot 2026-04-21 173824" src="https://github.com/user-attachments/assets/5ba32076-329a-4e3a-b8ff-a5117006719a" />
+<img width="595" height="361" alt="Screenshot 2026-06-03 180911" src="https://github.com/user-attachments/assets/fc52fdbf-2f2d-4dc3-bc53-34e3d82a555c" />
+
 
 ## 🧠 Recommendation
 
-<img width="1188" height="621" alt="Screenshot 2026-04-21 173833" src="https://github.com/user-attachments/assets/fbedc2ee-9629-4a01-9a9a-ff4e8ff993ab" />
+<img width="594" height="300" alt="Screenshot 2026-06-03 180947" src="https://github.com/user-attachments/assets/70ebcede-384f-4427-a0d2-7dd00b18c0c6" />
 
 
 # 🎯 Key Objectives
